@@ -36,7 +36,7 @@ This project automates the process of identifying trending cryptocurrency news b
 ---
 
 ## 📸 Output
-![Application Screenshot]()
+![Application Screenshot](Scrape-Trending-News-and-Tweet/screenshot.png)
 
 ---
 
